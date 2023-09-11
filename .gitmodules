@@ -1,0 +1,3 @@
+[submodule "Gaming.TestingHub.API"]
+	path = Gaming.TestingHub.API
+	url = https://github.com/si-shreyaskudav/Gaming.TestingHub.API.git
